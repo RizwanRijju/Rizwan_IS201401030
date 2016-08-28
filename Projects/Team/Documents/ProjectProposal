@@ -1,5 +1,3 @@
-1.Feedback API:
-  This is the API for capturing user feedback, processing data and giving the user a current status of usee of his feedback.
-
-2.Object Orientation:
-  Creating object oriented models from user inputs to make learning of OOPS easy.
+1.Semantic web forms:
+Given a set of ontologies [owl files], create a tool that reads these owl files, generates simple wizard based UIs for creating instances [forms] of these ontologies. The tool should have provision to create different versions of ontologies and save them for further revisions. The input owl files belong to education domain and this tool could be used for authoring process.
+                     
