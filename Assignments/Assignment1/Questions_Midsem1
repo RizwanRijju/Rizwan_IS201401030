@@ -1,0 +1,28 @@
+1.	Which of  the following entries should not be there in Model description?
+a)	List of References
+b)	Technical write-ups
+c)	Languages that are preferred
+d)	Restrictions  concerning physical limitations and bounds
+Ans : C
+
+2.	What are the things that involve Data Input?
+•	Order
+•	Layout
+•	Sample input forms
+
+3.	All source decks would begin with comment cards, identifying:………
+•	Project name and number
+•	Client dept. name and number 
+•	Programmer’s name
+•	Completion date
+
+4.	What does source deck involve?
+•	Each source deck should have the project no. in columns 73 to 76
+•	All Fortran source decks would have sequence numbers in columns 77 to 80 
+
+5.	Which of the following does operator guide involve?
+a)	Schematic drawing identifying only few data sets and devices
+b)	Exact layout of input streams, with detail of JCL (data cards, tape files, disc files)
+c)	Abnormal — instructions and description (with sample console sheet)
+d)	Normal — list possible troubles, with recommended courses of action
+Ans : B
