@@ -23,4 +23,45 @@ Week1
     -Communication
     -TeamWork
     
+
+#Week4
+    
+---There are three different worlds in software engineering
+	1 Problem world
+	2 Solution world
+  	3 Design world
+
+---Rely on role not person
+
+---There are two types of requirements functional and non-functional
+	Functional requirements describe what the system must do
+		eg:Authenication
+	Non Functional requirements describe how the system must behave
+		eg:Scalability
+	**Now slowly difference between functional and non functional requirements are going away
+--- In REQUIREMENT ENGINEERING elicitation is a process where requirements are taken from stakeholders and users
+--- There will be thousands of requirements of which only some sould be selected based on stakeholders,funding
+--- Think broad be limited
+
+
+#Week 5
+ 
+--We discussed more about agile modals.
+--We dicussed scrum in detail and had a debate on agile manefasto.
+--We learned about backlogs,should get updated with team member once in 24 hour,should set some fix time period for completion of project. 
+--We disscussed about projects and finalised to go through scrum modal.
+--Software quality ,code clarity.
+--Estimation of software,project can be estimated by LOC,function points.
+    
   
+#Week6
+
+--The software design was taught in the class
+--Design involves analysis,synthesis and evaluation of goals,constraints,assumptions,decision and ideas
+--Discussed few things about UML
+--Did an activity on Web security analysis involving design
+--Software design represents an abstracted form of the plan and modules required.
+--Design modules should support maintenance and verification.
+--Model-driven development is introduced in the class.
+
+
