@@ -1,0 +1,47 @@
+                                            Software Maintenance and Evolution
+                                            
+	The main aim is to describe a landscape for research in software maintenance and evolution over the next ten years, in order to improve the speed and accuracy of change while reducing costs, by identifying key problems, promising solution strategies and topics of importance.
+ These aims are met, by taking two approaches,
+⦁	  Firstly current trends and practices are projected forward using a new model of software evolution called the staged model. Both strategic problems and research to solve particular tactical problems are described within this framework.
+⦁	 Secondly, a longer term, and much more radical vision of software evolution is presented. Both general principles and specific research topics are provided, both within an overall strategy of engineering research and rationale. 
+
+ As of now research in software maintenance has been undertaken in seven broad areas:
+i.	System dynamics
+ii.	Maintenance processes
+iii.	Studies of software change
+iv.	Products, linking software attributes to maintainability 
+v.	Program comprehension methods and tools, to link attributes to better cognitive understanding
+vi.	High level management, business and people issues; business models such as outsourcing and applications management
+vii.	Legacy and reverse engineering
+
+ There are two approaches to develop a ‘road-map’ of research and of developments in this field,
+a.	 The first approach projects and extrapolates from current trends and problems. The map is facilitated by a novel staged model of software development that is based on empirical observation. 
+b.	The second approach represents the outcome of a process that has involved experts from a range of disciplines brainstorming the problem, over a period of years. 
+	Revalidation and testing are required after changes are made to software. These activities can be very time consuming and are an integral part of maintenance.
+
+ Importance of Maintenance
+	Maintenance activities were categorised into four classes by Lientz and Swanson.
+⦁	Adaptive – changes in the software environment
+⦁	Perfective – new user requirements
+⦁	Corrective – fixing errors 
+⦁	Preventive – prevent problems in the future. 
+
+	 The fundamental problem, supported by experience, is that many changes actually required are those that the original designers cannot even conceive of.  So software maintenance is important because
+ (i) it consumes a large part of the overall lifecycle costs.
+ (ii) The inability to change software quickly and reliably means that business opportunities are lost.
+
+  Software maintenance
+	Despite the large expenditure, little is known about the empirical nature of software maintenance, in terms of its effect on the artefact.
+The first vista in the research landscape is to gain more empirical information about the nature of software maintenance, in terms of its effect on the software itself, on processes, on organisations and people. 
+New technologies are proposed and introduced without consideration of what happens when the software has to be changed. If such innovations are to be exploited successfully, the full lifecycle needs to be addressed, not just the initial development.
+A major challenge for the research community is to develop a good theoretical understanding and underpinning for maintenance and evolution, which scales to industrial applications.
+Model Outline
+	 Model Outline represents the software lifecycle as a sequence of stages, with initial development being the first stage. Its key contribution is to separate the maintenance phase into an evolution stage followed by a servicing and phase out stages.
+Another important outcome of the initial development is the knowledge that the programming team acquires the knowledge of the application domain, user requirements, role of the application in the business process. This knowledge is a crucial prerequisite for the subsequent phase of evolution.
+Software evolution takes place only when the initial development was successful. The goal is to adapt the application to the ever-changing user requirements and operating environment. The evolution stage also corrects the faults in the application and responds to both developer and user learning, where more accurate requirements are based on the past experience with the application. 
+Both software architecture and software team knowledge make evolution possible. Once one or the other aspect disappears, the program is no longer evolvable and enters the stage of servicing.  However if the knowledge necessary for evolution is lost, the changes in the software will lead to a faster deterioration of the architecture. 
+ For all practical reasons, the transition from evolution to servicing is irreversible. The final stages are phase-out and close-down. During phase-out, no more servicing is being undertaken, but the system still may be in production. The users must work around known deficiencies. During close-down the software use is disconnected and the users are directed towards a replacement.
+An amplification of the staged model is the versioned staged model where the  software team produces versions of the software during an extended phase of evolution, but the versions are no longer evolved, only serviced. All substantial changes in the functionality are implemented in the future versions.
+
+	Finally, the foundations are laid for a successful evolution phase. The service stage tends to operate at a lower level of abstraction, and there is much scope for improvement to program comprehension and program improvement technologies, especially for component-based distributed systems. 
+	 Solutions are going to be essential to meet the needs of businesses where change is constant and urgent. So we can expect software evolution to be positioned at the centre of software engineering.
